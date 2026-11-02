@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chaitu269.github.io/domain-rating-checker/sitemap.xml
